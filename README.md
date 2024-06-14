@@ -1,2 +1,2 @@
-# LifeSum-App
+# world of life-App
 Mundo de vida 
